@@ -295,9 +295,11 @@ variable-intellisense {
     .StandardHeader-header-button-1562K,
     [class*="StandardHeader-header-drop-menu-item-"],
     [class*="StandardHeader-header-drop-menu-"] li a *,
+    [class*="Header-header-drop-menu-"],
     .StandardHeader-header-button-active-mEoTJ,
     .LGaPf svg {
         color: var(--contrast-text) !important;
+        background-color: var(--background-color);
     }
 
     .StandardHeader-header-drop-menu-YShpU._1Z0RM {
